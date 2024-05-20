@@ -1,6 +1,8 @@
+# Jag lägger till det gär för att uppdatera min README
+
 I detta projekt ska jag bli bättre på Git!
 
-Uppgifterna för det här projektet är:
+## Uppgifterna för det här projektet är:
 
 Skapa en README-fil
 Skapa en feature-branch:
